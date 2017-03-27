@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.DS_Store
+.idea
+.project
+yarn-error.log
+unpackage
+manifest.json
